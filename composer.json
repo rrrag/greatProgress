@@ -1,0 +1,11 @@
+{
+    "name": "wuyanzu/firstpace",
+    "description": "This is my first packagest!",
+    "authors": [
+        {
+            "name": "WU",
+            "email": "574331590@qq.com"
+        }
+    ],
+    "require": {}
+}
